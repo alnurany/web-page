@@ -118,7 +118,7 @@ body{
     padding-bottom: 10px;
     display: flex;
     justify-content: space-around;
-    background-image: url(./mission-2022/images/shapes/shape-1.png); 
+    background-image: url(images/shapes/shape-1.png); 
     background-repeat: no-repeat;
     background-size: 300px; 
     background-position:left;
@@ -145,7 +145,7 @@ body{
     display: flex;
     margin:20px;
     padding: 20px;
-    background-image: url(./mission-2022/images/shapes/shape-1.png);
+   background-image: url(./images/shapes/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right bottom ;
     background-size: 350px;
